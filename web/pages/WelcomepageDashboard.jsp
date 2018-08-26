@@ -10,6 +10,7 @@
         <meta name="author" content="">
 
         <title>Dashboard</title>
+        
         <!-- Bootstrap Core CSS -->
         <link href="./css/bootstrap.min.css" rel="stylesheet" type="text/css">
 
